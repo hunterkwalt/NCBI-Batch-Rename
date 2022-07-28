@@ -1,4 +1,4 @@
-# NCBI-Batch_Rename
+# NCBI-Batch-Rename
 
 
 For renaming directories containing genomic data after an ncbi batch data packet download from their assembly accesssion to their organism name
